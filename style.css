@@ -1,0 +1,30 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+body{
+    background: linear-gradient(#3627f8, #21ff41);
+}
+#selfie{
+    background-color: palegreen;
+    font-family:  'Comic Neue', cursive;
+}
+#cheese{
+    background-color: salmon;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
